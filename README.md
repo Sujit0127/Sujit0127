@@ -4,22 +4,11 @@
 <a href='https://www.facebook.com/sujit-maity.7547031/'><img align='left' alt="facebook" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height='18px'/></a>
 <br/>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️. 
+I am a versatilist and easily adapt to different hats (Web Developer 🌐, App Developer 📱, beginner level Designer 🎨, depending on what the project requires. I love exploring new tech stack 💻.. 
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]()
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sujit-maity-8a3123207/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jQ3-AQtCg6KutgJ3B97jXa8WZC_t5Icc/view?usp=drive_link)
-
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </a>
