@@ -8,9 +8,10 @@
 
 💼 **About Me**  
 I am a **multi-disciplinary developer** with experience in:
-- 🌐 **Web Development**
-- 📱 **App Development**
-- ⚙ **Real-time Applications**
+- 🖥️ **Professional desktop GUIs (PyQt5, modular design, dynamic components)**
+- 📡 **Data communication & streaming (UDP, multiprocessing, MIL-STD-1553, TMoIP)**
+- 📊 **Real-time monitoring dashboards**
+- 📁 **File handling, XML/Excel integration, and project saving/loading**
 
 I enjoy **learning new technologies**, solving complex problems, and building projects that make a real impact.
 
