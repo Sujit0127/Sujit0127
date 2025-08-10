@@ -19,13 +19,7 @@ I enjoy **learning new technologies**, solving complex problems, and building pr
 ### 💻 Professional Experience
 | Role | Company | Duration | Key Contributions |
 |------|---------|----------|-------------------|
-| **Software Developer** | DRDL (Defence Research & Development Laboratory) | August 2022– May 2023 | 
-• Operating Telemetry system to collect data from launch vehicle.
- • Design & development of application to parse the data for analyzing
- and Data representation.
- • Analyzing and processing the data using MATLAB.
- • Data Plotting and Visualization using MATLAB of data from
- Unmanned Launch Vehicles. |
+| **Software Developer** | DRDL (Defence Research & Development Laboratory) | August 2022– May 2023 | • Operating Telemetry system to collect data from launch vehicle.• Design & development of application to parse the data for analyzing and Data representation.• Analyzing and processing the data using MATLAB. • Data Plotting and Visualization using MATLAB of data from Unmanned Launch Vehicles. |
 
 ---
 
