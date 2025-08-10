@@ -26,15 +26,6 @@ I enjoy **learning new technologies**, solving complex problems, and building pr
 | **Other Skills**  | Data Visualization, Real-time Dashboards |
 
 ---
-
-### 📈 GitHub Insights
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SujitMaity&show_icons=true&theme=default" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujitMaity&theme=default" height="160px"/>
-</p>
-
----
-
 ### 📫 Contact Me
 📧 **Email:** maitysujit32@gmail.com  
 🔗 **Portfolio/Website:** sujit0127.github.io/portfolio-II
