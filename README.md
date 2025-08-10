@@ -19,9 +19,9 @@ I enjoy **learning new technologies**, solving complex problems, and building pr
 ### 💻 Professional Experience
 | Role | Company | Duration | Key Contributions |
 |------|---------|----------|-------------------|
-| **Software Developer** | DRDL (Defence Research & Development Laboratory) | Aug 2022 – May 2023 | • Operating Telemetry system to collect data from launch vehicle.<br>• Design & development of application to parse data for analysis & representation.<br>• Analyzing and processing data using MATLAB.<br>• Data plotting and visualization using MATLAB from Unmanned Launch Vehicles. |
+| **Software Developer** |  Maple Software Pvt Ltd | June 2023– March 2025 | • Workedonbuilding Application for Telemetry Data Analysis using Python.<br>• Workedonbuilding new MATLAB GUI for Telemetry Data Analysis.<br>• MIL-1553 Data Extraction software with C.<br>• Webpagedevelopment with HTML and CSS for Data Reports. |
 
-| **Software Developer** | DRDL (Defence Research & Development Laboratory) | Aug 2022 – May 2023 | • Operating Telemetry system to collect data from launch vehicle.<br>• Design & development of application to parse data for analysis & representation.<br>• Analyzing and processing data using MATLAB.<br>• Data plotting and visualization using MATLAB from Unmanned Launch Vehicles. |
+| **Project Engineer** | DRDL (Defence Research & Development Laboratory) | Aug 2022 – May 2023 | • Operating Telemetry system to collect data from launch vehicle.<br>• Design & development of application to parse data for analysis & representation.<br>• Analyzing and processing data using MATLAB.<br>• Data plotting and visualization using MATLAB from Unmanned Launch Vehicles. |
 ---
 
 ### 🛠️ Skills & Technologies
