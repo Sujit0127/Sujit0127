@@ -20,8 +20,6 @@ I enjoy **learning new technologies**, solving complex problems, and building pr
 | Role | Company | Duration | Key Contributions |
 |------|---------|----------|-------------------|
 | **Software Developer** | DRDL (Defence Research & Development Laboratory) | 2023 – Present | Developed PyQt5-based real-time dashboards, implemented data visualization tools, and optimized data processing for high-performance systems. |
-| **Intern – Software Development** | [If you have one, replace here] | [Year] | Assisted in building web-based solutions using Django & React, integrated APIs, and performed database optimizations. |
-| **Freelance Projects** | Self-employed | Ongoing | Designed and delivered custom desktop and web applications for clients, including UI/UX improvements and automation scripts. |
 
 ---
 
