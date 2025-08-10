@@ -10,10 +10,18 @@
 I am a **multi-disciplinary developer** with experience in:
 - 🌐 **Web Development**
 - 📱 **App Development**
-- 🎨 **UI/UX Basics**
 - ⚙ **Real-time Applications**
 
 I enjoy **learning new technologies**, solving complex problems, and building projects that make a real impact.
+
+---
+
+### 💻 Professional Experience
+| Role | Company | Duration | Key Contributions |
+|------|---------|----------|-------------------|
+| **Software Developer** | DRDL (Defence Research & Development Laboratory) | 2023 – Present | Developed PyQt5-based real-time dashboards, implemented data visualization tools, and optimized data processing for high-performance systems. |
+| **Intern – Software Development** | [If you have one, replace here] | [Year] | Assisted in building web-based solutions using Django & React, integrated APIs, and performed database optimizations. |
+| **Freelance Projects** | Self-employed | Ongoing | Designed and delivered custom desktop and web applications for clients, including UI/UX improvements and automation scripts. |
 
 ---
 
@@ -26,8 +34,7 @@ I enjoy **learning new technologies**, solving complex problems, and building pr
 | **Other Skills**  | Data Visualization, Real-time Dashboards |
 
 ---
+
 ### 📫 Contact Me
 📧 **Email:** maitysujit32@gmail.com  
-🔗 **Portfolio/Website:** sujit0127.github.io/portfolio-II
-
----
+🔗 **Portfolio/Website:** [sujit0127.github.io/portfolio-II](https://sujit0127.github.io/portfolio-II)
